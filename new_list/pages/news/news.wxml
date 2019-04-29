@@ -1,0 +1,43 @@
+<view>
+  <swiper class="img" autoplay="true" interval="3000" indicator-dots="true">
+    <swiper-item>
+      <image src="/images/post/bl.png" class="img"></image>
+    </swiper-item>
+    <swiper-item>
+       <image src="/images/post/cat.png" class="img"></image>
+    </swiper-item>
+    <swiper-item>
+       <image src="/images/post/crab.png" class="img"></image>
+    </swiper-item>
+  </swiper>
+  <view class="content">
+    <view class="content-one">
+       <image src='/images/avatar/1.png' class="content-one-img"></image>
+       <text  class="content-one-txt">2019-04-29</text>
+    </view>
+    <text class="content-two">帅哥,来玩呀</text>
+    <image src='/images/post/xiaolong.jpg'class="img"></image>
+    <text>文章简介</text>
+    <view class="content-three">
+      <image src='/images/icon/chat.png'class="content-three-img"></image>
+      <text>100</text>
+      <image src='/images/icon/view.png'class="content-three-img"></image>
+      <text>1</text>
+    </view>
+  </view>
+  <view class="content">
+    <view class="content-one">
+       <image src='/images/avatar/1.png' class="content-one-img"></image>
+       <text  class="content-one-txt">2019-04-29</text>
+    </view>
+    <text class="content-two">帅哥,来玩呀</text>
+    <image src='/images/post/xiaolong.jpg'class="img"></image>
+    <text>文章简介</text>
+    <view class="content-three">
+      <image src='/images/icon/chat.png'class="content-three-img"></image>
+      <text>100</text>
+      <image src='/images/icon/view.png'class="content-three-img"></image>
+      <text>1</text>
+    </view>
+  </view>
+</view>
